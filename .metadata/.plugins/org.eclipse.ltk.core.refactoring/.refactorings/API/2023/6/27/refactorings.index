@@ -1,0 +1,13 @@
+1687936783374	Delete element
+1687937113834	Delete element
+1687937117813	Delete element
+1687937608396	Rename type 'BinaRepository'
+1687937619202	Rename type 'BinaService'
+1687937626798	Rename type 'BinaManager'
+1687937637608	Rename type 'CreateBinaRequest'
+1687937648422	Rename type 'GetAllBinaResponse'
+1687937657220	Rename type 'GetByIdBinaResponse'
+1687937663600	Rename type 'Bina'
+1687937675662	Rename type 'BinasController'
+1687964682124	Rename type 'GetAllLogResponse'
+1687964686192	Rename type 'GetAllApartmentResponse'

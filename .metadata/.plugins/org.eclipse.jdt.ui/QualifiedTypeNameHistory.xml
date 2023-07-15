@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.CameraApp.CameraApp.business.abstracts.UserService"/>
+    <fullyQualifiedTypeName name="com.CameraApp.CameraApp.dataAccess.abstracts.UserRepository"/>
+    <fullyQualifiedTypeName name="com.CameraApp.CameraApp.core.utilities.mappers.ModelMapperService"/>
+    <fullyQualifiedTypeName name="com.camera.API.business.abstaracts.ApartmentService"/>
+    <fullyQualifiedTypeName name="com.camera.API.business.requests.CreateApartmentRequest"/>
+    <fullyQualifiedTypeName name="com.camera.API.dataAccess.abstracts.LogRepository"/>
+    <fullyQualifiedTypeName name="com.camera.API.entities.concretes.Log"/>
+    <fullyQualifiedTypeName name="com.camera.API.business.requests.LoginUserRequest"/>
+    <fullyQualifiedTypeName name="com.camera.API.business.abstaracts.LogService"/>
+    <fullyQualifiedTypeName name="com.camera.API.business.requests.CreateLogRequest"/>
+    <fullyQualifiedTypeName name="com.camera.API.business.responses.GetAllLogResponse"/>
+    <fullyQualifiedTypeName name="com.camera.API.business.responses.GetByIdLogResponse"/>
+    <fullyQualifiedTypeName name="com.camera.API.business.abstaracts.CameraService"/>
+    <fullyQualifiedTypeName name="com.camera.API.business.responses.GetAllCamerasResponse"/>
+    <fullyQualifiedTypeName name="com.camera.API.business.requests.CreateCameraRequest"/>
+    <fullyQualifiedTypeName name="com.camera.API.core.utilities.jwt.JwtUtil"/>
+    <fullyQualifiedTypeName name="com.camera.API.dataAccess.abstracts.ApartmentRepository"/>
+    <fullyQualifiedTypeName name="com.camera.API.core.utilities.mappers.ModelMapperService"/>
+    <fullyQualifiedTypeName name="com.camera.API.business.abstaracts.UserService"/>
+    <fullyQualifiedTypeName name="com.camera.API.entities.concretes.User"/>
+    <fullyQualifiedTypeName name="com.camera.API.business.requests.UpdateUserRequest"/>
+    <fullyQualifiedTypeName name="com.camera.API.business.responses.LoginResponse"/>
+    <fullyQualifiedTypeName name="com.camera.API.entities.concretes.Apartment"/>
+    <fullyQualifiedTypeName name="lombok.Getter"/>
+    <fullyQualifiedTypeName name="com.camera.API.dataAccess.abstracts.CameraRepository"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+    <fullyQualifiedTypeName name="org.modelmapper.ModelMapper"/>
+    <fullyQualifiedTypeName name="com.camera.API.entities.concretes.Camera"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.camera.API.business.responses.GetByIdUserResponse"/>
+    <fullyQualifiedTypeName name="com.camera.API.business.responses.GetAllApartmentResponse"/>
+    <fullyQualifiedTypeName name="com.camera.API.business.responses.GetByIdApartmentResponse"/>
+    <fullyQualifiedTypeName name="org.springframework.http.ResponseEntity"/>
+    <fullyQualifiedTypeName name="org.springframework.http.HttpStatus"/>
+    <fullyQualifiedTypeName name="com.camera.API.business.responses.GetAllUsersResponse"/>
+    <fullyQualifiedTypeName name="com.camera.API.business.requests.CreateUserRequest"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="lombok.AllArgsConstructor"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="com.camera.API.business.responses.GetByIdCameraResponse"/>
+    <fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+    <fullyQualifiedTypeName name="com.camera.API.business.requests.UpdateCameraRequest"/>
+    <fullyQualifiedTypeName name="com.camera.API.dataAccess.abstracts.UserRepository"/>
+</qualifiedTypeNameHistroy>
